@@ -60,3 +60,13 @@ Users - contains data for every user
 ● words_in_user_profile - the number of words in the “about me” section of the user’s Airbnb profile (at
 the time of contact)
 ● country - origin country of the user
+
+
+<img src="https://github.com/akshaybhatt0095/airbnb--Data-science-project/blob/main/images/okr.png" width="1100" height="600">
+<img src="https://github.com/akshaybhatt0095/airbnb--Data-science-project/blob/main/images/key%20metrics.png" width="1100" height="600">
+<img src="https://github.com/akshaybhatt0095/airbnb--Data-science-project/blob/main/images/key%20metrics%20segmentation.png" width="1100" height="600">
+<img src="https://github.com/akshaybhatt0095/airbnb--Data-science-project/blob/main/images/1.png" width="1100" height="600">
+<img src="https://github.com/akshaybhatt0095/airbnb--Data-science-project/blob/main/images/2.png" width="1100" height="600">
+<img src="https://github.com/akshaybhatt0095/airbnb--Data-science-project/blob/main/images/3.png" width="1100" height="600">
+<img src="https://github.com/akshaybhatt0095/airbnb--Data-science-project/blob/main/images/4.png" width="1100" height="600">
+<img src="https://github.com/akshaybhatt0095/airbnb--Data-science-project/blob/main/images/5.png" width="1100" height="600">
