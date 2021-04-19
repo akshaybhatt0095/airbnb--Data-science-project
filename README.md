@@ -1,4 +1,4 @@
-# airbnb--Data-science-project
+# Airbnb--Data-science-project
 
 Airbnb is a two sided marketplace which matches guests to hosts. The booking flow at Airbnb is as follows: a guest
 finds an available room (listing) that they like, and then they contact the host. Once the guest finds a listing they
