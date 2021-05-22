@@ -3,7 +3,7 @@
 Airbnb is a two sided marketplace which matches guests to hosts. The booking flow at Airbnb is as follows: a guest
 finds an available room (listing) that they like, and then they contact the host. Once the guest finds a listing they
 are interested in, there are three ways to send the host an inquiry: ‘contact_me’, ‘book_it’, or ‘instant_book’
-(detailed at the bottom of this document). Upon receiving the inquiry, the host can then decide whether or not to
+. Upon receiving the inquiry, the host can then decide whether or not to
 accept the request (for ‘contact_me’ and ‘book_it’ methods -- `instant_book` is auto-accepted). The main goal at
 Airbnb is to increase bookings on the platform.
 
